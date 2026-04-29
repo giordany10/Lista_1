@@ -14,7 +14,7 @@ public class FilaLinearDinamica {
             atual = atual.prox;
             pos++;
         }
-        return -1; // Não encontrado
+        return -1;
     }
-    // ...outros métodos...
+ 
 }
