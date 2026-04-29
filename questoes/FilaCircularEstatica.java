@@ -17,5 +17,5 @@ public class FilaCircularEstatica {
         }
         return false;
     }
-    // ...outros métodos...
+   
 }
